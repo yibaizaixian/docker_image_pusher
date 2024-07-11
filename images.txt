@@ -1,6 +1,10 @@
-#nginx:1.26.1
-#mysql:8.0.38
-#redis:7.2.5
-#minio/minio:latest
+# nginx
 #nginx:1.25.4
-bitnami/minio:2024.7.4
+#nginx:1.26.1
+# mysql
+#mysql:8.0.38
+# redis
+#redis:7.2.5
+# minio
+#minio/minio:latest
+#bitnami/minio:2024.7.4
